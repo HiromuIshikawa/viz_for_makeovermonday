@@ -1,0 +1,6 @@
+# Emacs
+.\#*
+
+# pyenv
+.python-version
+venv
