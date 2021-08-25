@@ -4,3 +4,6 @@
 # pyenv
 .python-version
 venv
+
+# data directory
+data
